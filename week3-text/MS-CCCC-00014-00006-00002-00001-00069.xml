@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>CCCC14/6/2/1/69</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Cambridge University Library</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Corpus Christi College Cambridge Archives</repository>
+                  <idno>CCCC14/6/2/1/69</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>
+                     <p>Locations included are: <placeName key="Q130191"
+                           >Norwich</placeName> [<locus from="5617" to="5617">pages 5617-18,
+                           5686-88</locus>], <placeName key="Q2184228">Surlingham</placeName>
+                           [<locus from="5617" to="5617">page 5617</locus>] where Rackham made
+                        observations on fungi, and some other locations in Cambridgeshire where
+                        fungi were observed, namely <placeName key="Q26567163">Brandon
+                           Park</placeName> [<locus from="5620-5621" to="5620-5621">5620-33 and
+                           5634-40</locus>], <placeName key="Q17674858">Sandy Lodge</placeName>
+                           [<locus from="5640-5641" to="5640-5641">5641-58</locus>], <placeName
+                           key="Q27990714">Chippenham Fen</placeName> [<locus from="5660-5661"
+                           to="5660-5661">5660-70</locus>] and <placeName key="Q7967272"
+                           >Wandlebury</placeName> [<locus from="5670-5671" to="5670-5671">5671-76
+                           and 5677-84</locus>]. There are also observations made in <placeName
+                           key="Q184775">Ipswich</placeName> [<locus from="5676-5677" to="5676-5677"
+                           >5676-77</locus>].</p>
+                  </summary>
+                  <msItem>
+                     <title>Notebook 69, covering October 1962 to November 1962</title>
+                     <author>Rackham, Oliver</author>
+                     <textLang mainLang="eng">English</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="paper">
+                        <extent>71 pages.</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1962" notAfter="1962">6 Oct. 1962-4
+                        Nov. 1962</origDate>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card for admissions procedures contact <ref
+                              target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge
+                              University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div>
+            
+            
+            <div type="entry">
+               <p><date when="1962-10-12">October 12.</date><lb/>
+                  <placeName key="Q536282">The College</placeName>'s <name type="plant" key="Q44789">mulberry tree</name><lb/>
+                  produces abundant fruits of<lb/>
+                  the shape and colour<lb/>
+                  of blackberries but some-<lb/>
+                  what larger, with abun-<lb/>
+                  dant red juice, and a<lb/>
+                  fairly pleasant but bitter<lb/>
+                  taste recalling grapes.</p>
+            </div>
+            <div type="entry">
+               <p>October 13.<lb/>
+                  Brandon Park House.<lb/>
+                  1. Amanita citrina.<lb/>
+                  Very abundant with<lb/>
+                  oak and birch, usu-<lb/>
+                  ally single.<lb/>
+                  P. flat, dry, pale<lb/>
+                  dirty pinkish lemon<lb/>
+                  yellow, with irregular<lb/>
+                  flat volval plates usu-<lb/>
+                  ally slightly darker, no<lb/>
+                  trace of radial stri-<lb/>
+                  ation.<lb/>
+                  S. slender, lemon<lb/>
+                  yellow, tigered above.<lb/>
+                  Volva small, booty<lb/>
+                  usually left in the<lb/>
+                  ground.</p>
+
+               <p>2. Amanita rubescens. Very<lb/>
+                  abundant in coniferous and<lb/>
+                  deciduous woods, and<lb/>
+                  much sought after by myco-<lb/>
+                  phagists.</p>
+
+               <p>3. Cantharellus cibarius.<lb/>
+                  Abundant in deciduous<lb/>
+                  woods.</p>
+
+               
+            </div>
+
+            <div type="entry">
+               <p>October 14.<lb/>
+                  Botanic Gardens, Cambridge<lb/>
+                  1. Pholiota squarrosa. Several<lb/>
+                  tufts all round the base of<lb/>
+                  the big Ailanthus in the<lb/>
+                  Botanic Gardens, on the<lb/>
+                  bark at soil level.</p>
+
+               <p>2. Armillaria mellea. Of<lb/>
+                  the two seriously affected Acers<lb/>
+                  at the Gardens, the only<lb/>
+                  sign of life remaining is<lb/>
+                  in the smaller of the two<lb/>
+                  main branches of A. macro-<lb/>
+                  phyllum. Most of the lower<lb/>
+                  bark of the latter has come
+                  away, and the fungus<lb/>
+                  seems to have penetrated<lb/>
+                  at least 4 ft above ground.<lb/>
+                  A small Mycena is grow-<lb/>
+                  ing on the rotten wood.<lb/>
+                  In A. saccharum, a strong<lb/>
+                  mycelial sheet extends<lb/>
+                  2 1/2 ft above ground level.</p>
+               
+               <p>3. Xerocomus subtomentosus.<lb/>
+                  One under lime,<lb/>
+                  the Spinney. Top very<lb/>
+                  cracked, but probably<lb/>
+                  abnormal. Tubes slowly go<lb/>
+                  blue when bruised,<lb/>
+                  flesh not.</p>
+            </div>
+            <div type="entry">
+               <p>October 15.<lb/>
+                  The dying horsechestnut<lb/>
+                  in Leckhampton is little<lb/>
+                  changed.</p>
+            </div>
+            <div type="entry">
+               <p>October 16.<lb/>
+                  A gray-squirrel was<lb/>
+                  seen about 8 a.m. on the<lb/>
+                  road outside Ridley Hall.</p>
+            </div>
+            <div type="entry">
+               <p>October 17.<lb/>
+                  Impatiens parviflora<lb/>
+                  at the Botanic Gardens has<lb/>
+                  almost all died, with moulds<lb/>
+                  and Botrytis growing on the<lb/>
+                  upper stems.</p>
+            </div>
+            <div type="entry">
+               <p>October 22.<lb/>
+                  Owls have been heard<lb/>
+                  in Leckhampton.</p>
+            </div>
+            <div type="entry">
+               <p>October 23.<lb/>
+                  Bats are still about<lb/>
+                  in the College.</p>
+            </div>
+           
+            <div type="entry">
+               <p>October 27.<lb/>
+                  Wandlebury.<lb/>
+                  1. Clitocybe nebularis.<lb/>
+                  Many in various parts<lb/>
+                  of the beech woods.<lb/>
+                  Those in front of the<lb/>
+                  house are all over<lb/>
+                  or have been picked.</p>
+
+               <p>2. Xylaria hypoxylon.<lb/>
+                  Very abundant.</p>
+
+               <p>3. Geaster fimbriatus.<lb/>
+                  Abundant in the beech-<lb/>
+                  lime coppice.</p>
+
+               
+            </div>
+            <div type="entry">
+               <p>October 29.<lb/>
+                  Armillaria is coming<lb/>
+                  up in Pembroke; several<lb/>
+                  small tufts in the S.W.<lb/>
+                  part of the main lawn, not<lb/>
+                  near any of the trees<lb/>
+                  planted there, and a tuft<lb/>
+                  (larger than last year) at<lb/>
+                  the foot of one of the<lb/>
+                  great planes on the opposite<lb/>
+                  side of the path.</p>
+            </div>
+            <div type="entry">
+               <p>November 3.<lb/>
+                  Rumex hydrolapathum<lb/>
+                  is abundant in an over-<lb/>
+                  grown dyke on the E.<lb/>
+                  side of the railway just S.<lb/>
+                  of Waterbeach station.<lb/>
+                  A heron has been sitting<lb/>
+                  on straw bales in a field<lb/>
+                  at Ely.</p>
+            </div>
+            
+         </div>
+      </body>
+   </text>
+</TEI>
