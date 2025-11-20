@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 import datetime
-import math
 
+# a script to print the current moon phase as words, with the relevant Unicode symbol
+# compare https://moonphases.co.uk/moon-calendar: result new moon (2 days out)
 def moon_phase_symbol():
     # Current date
-    now = datetime.datetime.utcnow()
+    now = datetime.datetime.now(datetime.UTC)
+    # cf https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated
     year = now.year
     month = now.month
     day = now.day
@@ -41,9 +43,11 @@ def moon_phase_symbol():
         (29.53, "🌑 New Moon")
     ]
 
-    for threshold, symbol in phases:
+    for threshold, symbol in phases: 
         if age_days <= threshold:
-            return symbol
+            moonphase = symbol
+    return moonphase, year, month, day
 
-if __name__ == "__main__":
-    print(moon_phase_symbol())
+bits = moon_phase_symbol()
+print(f"The moon phase on {bits[3]}-{bits[2]}-{bits[1]} is:")
+print(bits[0])
