@@ -3,14 +3,15 @@ import datetime
 
 # a script to print the current moon phase as words, with the relevant Unicode symbol
 # compare https://moonphases.co.uk/moon-calendar: result new moon (2 days out)
-def moon_phase_symbol():
+def calculate_current_moon():
     # Current date
     now = datetime.datetime.now(datetime.UTC)
     # cf https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated
-    year = now.year
+    absolute_year = now.year
     month = now.month
     day = now.day
-
+    year = absolute_year - 2019 + 2
+    # return the last two digits and add 2
     # Conway's simplified moon phase algorithm
     if month < 3:
         year -= 1
@@ -46,8 +47,8 @@ def moon_phase_symbol():
     for threshold, symbol in phases: 
         if age_days <= threshold:
             moonphase = symbol
-    return moonphase, year, month, day
+    return moonphase, absolute_year, month, day
 
-bits = moon_phase_symbol()
+bits = calculate_current_moon()
 print(f"The moon phase on {bits[3]}-{bits[2]}-{bits[1]} is:")
 print(bits[0])
